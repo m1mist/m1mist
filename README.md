@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m1mist
-- 👀 I’m interested in leftism
-- 🌱 I’m currently learning C
+- 👀 I’m interested in cpp
+- 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1664910959@qq.com
 
